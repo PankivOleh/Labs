@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"Luce_numb","l":"getN()"},{"p":"org.example","c":"Luce_numb","l":"getNumber()"},{"p":"org.example","c":"Luce_numb","l":"isNext(long)"},{"p":"org.example","c":"Luce_numb","l":"isPrev(long)"},{"p":"org.example","c":"Luce_numb","l":"Luce_numb()","u":"%3Cinit%3E()"},{"p":"org.example","c":"Luce_numb","l":"process()"}];updateSearchResults();
