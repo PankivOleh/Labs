@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SysFunc {
     public static int get(int i , int j){
-        System.out.println("Введіть свій вибір від "+ i +"до"+j);
+        System.out.println("Введіть свій вибір від "+ i +" до "+j);
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
         if(t>=i && t<=j){
